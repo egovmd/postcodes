@@ -14,7 +14,11 @@ source: [date.gov.md](http://date.gov.md/ckan/ro/dataset/14208-codurile-postale-
 
 ## Codurile postale ale mun. Chisinau
 
+Original Data:
     mun.Chisinau.csv
+
+Improving Data
+    new.mun.Chisinau.csv
 
 Fields separated by ; symbol
 
